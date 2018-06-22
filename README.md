@@ -1,18 +1,11 @@
-#Buglist
+# Buglist & Wish-List
 
-List of known errors:
-https://github.com/mdctgroup/Buglist/issues
+Here you will find all our known bugs and a feature wish-list.
+If you find a bug or have a wish or a idea for a new featre... feel free to post it!
 
-
-
-## Know a Bug?
-Please provide it to our support team. We will take care of it.
-www.mdct-group.com/support
+List:
+https://github.com/mdctgroup/Buglist-Wish-List/issues
 
 
-________________________________________________
-
-Developer
-www.mdct-group.com/developer
-
-
+## More about development @mdctgroup
+Find out: http://www.mdct-group.com/next
