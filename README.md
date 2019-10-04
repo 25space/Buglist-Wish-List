@@ -7,5 +7,5 @@ List:
 https://github.com/mdctgroup/Buglist-Wish-List/issues
 
 
-## More about development @mdctgroup
-Find out: http://www.mdct-group.com/next
+## More about development @25Space.com
+Find out: http://www.25space.com/developer
